@@ -1,7 +1,7 @@
 ## Repository praktikum IPSD
 
 <pre>
-Nama : Agung Widiyanto
-NIM : 2211110001
-Kelas : S1SD03-A
+Nama : Natasha Eva Dwi Nurdiyanti
+NIM : 2311110005
+Kelas : S1SD04-A
 </pre>
